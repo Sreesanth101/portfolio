@@ -1,0 +1,33 @@
+*{
+    text-emphasis-color: white;
+}
+
+.text{
+    background-color: "red";
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+}
+
+.b {
+    width: 1200px;
+    border: 15px solid white;
+    padding: 50px;
+    margin: 20px;
+    font-size: 25px;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
+
+.ul{
+    display: inline-flex;
+    margin: 50px;
+}
+
+.gj{
+    padding-right: 100px;
+    align-self: center;
+}
+
