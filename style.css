@@ -8,13 +8,14 @@
     font-size: 40px;
     font-family: 'Roboto', sans-serif;
     align-items: center;
+    margin: auto;
 }
 
 .b {
     width: 1200px;
     border: 15px solid white;
     padding: 1px;
-    margin: 1px;
+    margin: auto;
     font-size: 25px;
     align-content: center;
     align-self: center;
@@ -23,11 +24,12 @@
 
 .ul{
     display: inline-flex;
-    margin: 50px;
+    margin: auto;
 }
 
 .gj{
     padding-right: 100px;
     align-self: center;
+    margin: auto;
 }
 
