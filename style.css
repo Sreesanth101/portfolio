@@ -3,11 +3,13 @@
 }
 
 .text{
-    background-color: "red";
     text-align: center;
     font-size: 40px;
     font-family: 'Roboto', sans-serif;
     align-items: center;
+    width: 1200px;
+    border: 15px solid white;
+    padding: 1px;
     margin: auto;
 }
 
@@ -28,6 +30,10 @@
 }
 
 .gj{
+    width: 1200px;
+    border: 15px solid white;
+    padding: 1px;
+    margin: auto;
     padding-right: 100px;
     align-self: center;
     margin: auto;
